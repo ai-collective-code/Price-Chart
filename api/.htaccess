@@ -1,0 +1,3 @@
+# Disable directory listing — do NOT use "Deny from all" here
+# (that would block PHP script execution too)
+Options -Indexes

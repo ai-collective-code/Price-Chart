@@ -1,0 +1,4 @@
+php-bin/
+.env
+php.zip
+data/leads.csv

@@ -1,0 +1,4 @@
+# Secure session cookies — requires HTTPS (Hostinger provides free SSL)
+php_flag session.cookie_httponly On
+php_flag session.cookie_secure On
+php_flag session.use_strict_mode On
